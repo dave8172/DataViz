@@ -1,5 +1,5 @@
 # DataViz
-All (or most) data visualisations created as part of my volunteering experiences
+Data visualisations created as part of my volunteering experiences
 
 ![Model](https://github.com/dave8172/DataViz/blob/main/Visualisations/Chart.jpg)
 ![Model](https://github.com/dave8172/DataViz/blob/main/Visualisations/Kshamata_sa.jpg)
